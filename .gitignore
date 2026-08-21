@@ -41,5 +41,13 @@ Thumbs.db
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+.nx/recommended-location
 .claude/worktrees
 .claude/settings.local.json
+
+.angular
+
+# Playwright
+apps/web-e2e/playwright-report
+apps/web-e2e/test-results
+apps/web-e2e/.playwright
